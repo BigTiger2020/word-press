@@ -1,4 +1,4 @@
-# Exploit Title: WrodPress SP Project & Document Manager plug-in, the settings page has multiple types of cross-site scripting vulnerabilities scripting vulnerabilities
+# Exploit Title: WrodPress SP Project & Document Manager plug-in, the settings page has multiple reflective cross-site scripting vulnerabilities
 # Exploit Author: Thinkland Security Team
 # Vendor Homepage: https://wordpress.org/plugins/sp-client-document-manager/
 # Version :  V 4.25
