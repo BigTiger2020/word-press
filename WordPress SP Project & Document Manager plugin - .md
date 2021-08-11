@@ -6,12 +6,12 @@
 # Tested on Windows 10 、XAMPP
 # Vulnerability proof：  
 1. Click settings
-![image]()  
+![image](https://github.com/BigTiger2020/word-press/blob/main/xss-4.png)  
 2. Input content,click save
-![image]()  
+![image](https://github.com/BigTiger2020/word-press/blob/main/xss-5.png)  
 3.Modify the data request packet and insert the xss payload
-![image]()  
+![image](https://github.com/BigTiger2020/word-press/blob/main/xss-6.png)  
 4.Click settings again
-![image]()  
+![image](https://github.com/BigTiger2020/word-press/blob/main/xs.gif)  
 
 
