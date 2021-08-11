@@ -10,7 +10,8 @@
 2. Input content,click save
 ![image](https://github.com/BigTiger2020/word-press/blob/main/xss-5.png)  
 3.Modify the data request packet and insert the xss payload
-![image](https://github.com/BigTiger2020/word-press/blob/main/xss-6.png)  
+![image](https://github.com/BigTiger2020/word-press/blob/main/xss-6.png)   
+![image](https://github.com/BigTiger2020/word-press/blob/main/xss-8.png) 
 4.Click settings again
 ![image](https://github.com/BigTiger2020/word-press/blob/main/xs.gif)  
 
