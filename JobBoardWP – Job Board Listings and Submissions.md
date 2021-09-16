@@ -1,7 +1,7 @@
 # Exploit Title: WordPress Plugin JobBoardWP – Job Board Listings and Submissions —— Stored Cross-Site Scripting
 # Exploit Author: Thinkland Security Team
 # Date: 16/09/2021
-# Vendor Homepage: https://wordpress.org/plugins/simple-job-board/
+# Vendor Homepage: https://wordpress.org/plugins/jobboardwp/
 # Version :  V 1.0.6
 # Vulnerability Type: Stored Cross-Site Scripting
 # Tested on Windows 10 、XAMPP
