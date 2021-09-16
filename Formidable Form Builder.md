@@ -2,7 +2,7 @@
 # Exploit Author: Thinkland Security Team
 # Date: 16/09/2021
 # Vendor Homepage: https://wordpress.org/plugins/formidable/
-# Version :  V 1.0.6
+# Version :  V 5.0.03
 # Vulnerability Type: Stored Cross-Site Scripting
 # Tested on Windows 10 、XAMPP
 # Vulnerability proof：  
