@@ -6,4 +6,6 @@
 # Vulnerability Type: Stored Cross-Site Scripting
 # Tested on Windows 10 、XAMPP
 # Vulnerability proof：  
-![image]()  
+![image](https://github.com/BigTiger2020/word-press/blob/main/Formidable%20Form%20Builder%20xss%201.png)    
+![image](https://github.com/BigTiger2020/word-press/blob/main/Formidable%20Form%20Builder%20xss%202.png)  
+![image](https://github.com/BigTiger2020/word-press/blob/main/Formidable%20Form%20Builder.gif)
