@@ -6,4 +6,5 @@
 # Tested on Windows 10 、XAMPP
 # Vulnerability proof：  
 1. Job Manager 》Add Job 》Title and Application Email ,insert the xss payload <img src=1 onerror=alert(3)> and "OnMoUsEoVeR=prompt(1)//
-![image]()  
+![image](https://github.com/BigTiger2020/word-press/blob/main/Job%20Manager.gif)  
+
