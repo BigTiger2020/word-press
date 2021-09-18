@@ -6,7 +6,7 @@
 # Tested on Windows 10 、XAMPP
 # Vulnerability proof：  
 1. Jobs 》Job Settings 》Experience In and Currency In ,insert the xss payload "OnMoUsEoVeR=prompt(1)//
-![image]()  
-![image]()  
+![image](https://github.com/BigTiger2020/word-press/blob/main/Job%20Board%20Vanila%20Plugin-3.png)  
+![image](https://github.com/BigTiger2020/word-press/blob/main/Job%20Board%20Vanila%20Plugin-4.png)  
 2.Vulnerability proof:
-![image]()  
+![image](https://github.com/BigTiger2020/word-press/blob/main/Job%20Board%20Vanila%20Plugin-2.gif)  
