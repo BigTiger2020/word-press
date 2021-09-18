@@ -6,4 +6,4 @@
 # Tested on Windows 10 、XAMPP
 # Vulnerability proof：  
 1.Vulnerability proof:
-![image]()  
+![image](https://github.com/BigTiger2020/word-press/blob/main/Business%20Manager%20.gif)  
