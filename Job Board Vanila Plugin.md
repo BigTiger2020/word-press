@@ -6,8 +6,8 @@
 # Tested on Windows 10 、XAMPP
 # Vulnerability proof：  
 1. Jobs 》Add New 》Job Fields 》Location ,insert the xss payload <img src=1 onerror=alert(3)>
-![image]()  
+![image](https://github.com/BigTiger2020/word-press/blob/main/Job%20Board%20Vanila%20Plugin-1.png)  
 2. Click Save Draft,go to  http://192.168.50.200/wordpress/?post_type=job&p=3269&preview=true
-![image]()  
+![image](https://github.com/BigTiger2020/word-press/blob/main/Job%20Board%20Vanila%20Plugin-2.png)  
 3.Vulnerability proof:
-![image]()  
+![image](https://github.com/BigTiger2020/word-press/blob/main/Job%20Board%20Vanila%20Plugin-1.gif)  
