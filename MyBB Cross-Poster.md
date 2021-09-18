@@ -6,4 +6,4 @@
 # Tested on Windows 10 、XAMPP
 # Vulnerability proof：  
 1. Settings》MyBB Cross-Poster 》MyBB Cross-Posting Forum ID ,insert the xss payload "OnMoUsEoVeR=prompt(1)//
-![image]()  
+![image](https://github.com/BigTiger2020/word-press/blob/main/MyBB%20Cross-Poster.gif)  
