@@ -6,4 +6,4 @@
 # Tested on Windows 10 、XAMPP
 # Vulnerability proof：  
 1. HAL》Type of Id，Phone，Expiration cache (minutes) and other ,insert the xss payload "OnMoUsEoVeR=prompt(1)//
-![image]()  
+![image](https://github.com/BigTiger2020/word-press/blob/main/HAL.gif)  
