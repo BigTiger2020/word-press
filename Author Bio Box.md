@@ -6,4 +6,4 @@
 # Tested on Windows 10 、XAMPP
 # Vulnerability proof：  
 1. Settings》Author Bio Box》Gravatar size and Border size,insert the xss payload "OnMoUsEoVeR=prompt(1)//
-![image]()  
+![image](https://github.com/BigTiger2020/word-press/blob/main/Author%20Bio%20Boxgif.gif)  
