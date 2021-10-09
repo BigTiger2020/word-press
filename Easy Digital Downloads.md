@@ -6,4 +6,5 @@
 # Tested on Windows 10 、XAMPP
 # Vulnerability proof：  
 1. Downloads》Payment History》Start Date and End Date,insert the xss payload "OnMoUsEoVeR=prompt(1)//
-![image]()  
+![image](https://github.com/BigTiger2020/word-press/blob/main/Downloads1.png)  
+![image](https://github.com/BigTiger2020/word-press/blob/main/Downloads2.png)
