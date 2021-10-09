@@ -1,6 +1,6 @@
 # Exploit Title: WrodPress Plugin Catch Themes Demo Import ——  Arbitrary File Upload
 # Exploit Author: Thinkland Security Team
-# Vendor Homepage: https://www.wordfence.com/vulnerability-advisories/
+# Vendor Homepage: https://wordpress.org/plugins/catch-themes-demo-import/#description
 # Version :  V 1.6.1
 # Vulnerability Type: Arbitrary File Upload
 # Tested on Windows 10 、XAMPP
