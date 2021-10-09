@@ -6,4 +6,4 @@
 # Tested on Windows 10 、XAMPP
 # Vulnerability proof：  
 1. ERForms》All Forms》Add New Form,insert the xss payload "OnMoUsEoVeR=prompt(1)//
-![image]()  
+![image](https://github.com/BigTiger2020/word-press/blob/main/ERForms.png)  
