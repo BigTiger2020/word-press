@@ -1,4 +1,4 @@
-# Exploit Title: WrodPress Plugin Author Bio Box —— Stored Cross-Site Scripting
+# Exploit Title: WrodPress Plugin Indeed Job Importer —— Stored Cross-Site Scripting
 # Exploit Author: Thinkland Security Team
 # Vendor Homepage: https://wordpress.org/plugins/indeed-job-importer/
 # Version :  V 1.0.5
