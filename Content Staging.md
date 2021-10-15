@@ -5,4 +5,4 @@
 # Vulnerability Type: Stored Cross-Site Scripting
 # Tested on Windows 10 、XAMPP
 # Vulnerability proof：  
-![image]()  
+![image](https://github.com/BigTiger2020/word-press/blob/main/Content%20Staging.gif)  
